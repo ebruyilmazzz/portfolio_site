@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "679cd63d09a0673508bc13bf"
+  },
+  "name": "Ebru Yılmaz",
+  "email": "ebruylmaazz0505@gmail.com",
+  "message": "rhmfxmf",
+  "date": {
+    "$date": "2025-01-31T13:55:09.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cfbbb3fb02cd8bfbafd44"
+  },
+  "name": "Ebru Yılmaz",
+  "email": "ebruylmaazz0505@gmail.com",
+  "message": "selamm",
+  "date": {
+    "$date": "2025-01-31T16:35:07.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cfcaa3fb02cd8bfbafd48"
+  },
+  "name": "random",
+  "email": "worak11427@numerobo.com",
+  "message": "kdnob asolzkb m",
+  "date": {
+    "$date": "2025-01-31T16:39:06.849Z"
+  },
+  "__v": 0
+}]
